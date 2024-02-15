@@ -1,0 +1,5 @@
+ESTATISTICAS:
+Tempo total: 543
+Tempo médio de execução: 276.686
+Tempo médio de espera: 186
+Taxa de processamento: 0.0644567
